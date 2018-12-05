@@ -6,3 +6,5 @@ which is configurable. The application is designed and developed as a C# console
 The application accepts inputs such as No. of products, Unit price and State(for applying tax) and displays the result after considering discount and state tax.
 
 Unit testing is done with MSTest to validate input values and calculated result.
+
+Note:- Input validation is not in place and assumed to be entered correctly.
