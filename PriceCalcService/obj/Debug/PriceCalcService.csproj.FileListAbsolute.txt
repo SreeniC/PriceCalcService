@@ -1,0 +1,4 @@
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService\bin\Debug\PriceCalcService.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService\bin\Debug\PriceCalcService.pdb
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService\obj\Debug\PriceCalcService.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService\obj\Debug\PriceCalcService.pdb

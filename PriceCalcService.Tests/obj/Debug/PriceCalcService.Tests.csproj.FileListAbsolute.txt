@@ -1,0 +1,7 @@
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\bin\Debug\PriceCalcService.Tests.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\bin\Debug\PriceCalcService.Tests.pdb
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\bin\Debug\PriceCalcService.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\bin\Debug\PriceCalcService.pdb
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\obj\Debug\PriceCalcService.Tests.csprojResolveAssemblyReference.cache
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\obj\Debug\PriceCalcService.Tests.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Tests\obj\Debug\PriceCalcService.Tests.pdb

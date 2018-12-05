@@ -1,0 +1,8 @@
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\bin\Debug\PriceCalcService.Client.exe.config
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\bin\Debug\PriceCalcService.Client.exe
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\bin\Debug\PriceCalcService.Client.pdb
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\bin\Debug\PriceCalcService.dll
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\bin\Debug\PriceCalcService.pdb
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\obj\Debug\PriceCalcService.Client.csprojResolveAssemblyReference.cache
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\obj\Debug\PriceCalcService.Client.exe
+c:\users\win\documents\visual studio 2012\Projects\PriceCalcService\PriceCalcService.Client\obj\Debug\PriceCalcService.Client.pdb
